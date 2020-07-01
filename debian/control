@@ -1,0 +1,11 @@
+Source: atinout
+Section: admin
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.2.0
+
+Package: atinout
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: AT commands as input are sent to modem and responses given as output
