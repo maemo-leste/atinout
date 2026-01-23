@@ -2,7 +2,7 @@ Source: atinout
 Section: admin
 Priority: optional
 Maintainer: Ivan J. <parazyd@dyne.org>
-Build-Depends: debhelper (>= 10)
+Build-Depends: debhelper (>= 10), ronn
 Standards-Version: 4.2.0
 
 Package: atinout
